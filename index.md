@@ -29,7 +29,7 @@ Syntax highlighted code block
 - The instructors are cool and they WILL watch part of the videos i listed down below
 - CS 193 is interesting but also relaxing thanks to the low commitment
   
-# Cute puppies *MUST WATCH
+# Cute puppies ***MUST WATCH***
 - [Video 1](https://www.youtube.com/watch?v=sUlNXGYishE&pp=ygUMY3V0ZSBwdXBwaWVz) 
 - [Video 2](https://www.youtube.com/watch?v=uYJQIKAVBw8&pp=ygUMY3V0ZSBwdXBwaWVz)
 - [Video 3 (BEST ONE I LOVE THIS ONE)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D)
