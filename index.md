@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Seth DeWhitt's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,7 +25,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+## Bulleted List:
+- The instructors are cool and they WILL watch part of the videos i listed down below
+- CS 193 is interesting but also relaxing thanks to the low commitment
+  
 # Cute puppies *MUST WATCH
 - [Video 1](https://www.youtube.com/watch?v=sUlNXGYishE&pp=ygUMY3V0ZSBwdXBwaWVz) 
 - [Video 2](https://www.youtube.com/watch?v=uYJQIKAVBw8&pp=ygUMY3V0ZSBwdXBwaWVz)
