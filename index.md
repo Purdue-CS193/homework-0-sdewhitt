@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+
+
 
 1. Numbered
 2. List
@@ -25,6 +25,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+# Cute puppies *MUST WATCH
+- [Video 1](https://www.youtube.com/watch?v=sUlNXGYishE&pp=ygUMY3V0ZSBwdXBwaWVz) 
+- [Video 2](https://www.youtube.com/watch?v=uYJQIKAVBw8&pp=ygUMY3V0ZSBwdXBwaWVz)
+- [Video 3 (BEST ONE I LOVE THIS ONE)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
